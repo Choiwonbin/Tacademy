@@ -11,3 +11,6 @@ Reference: https://tacademy.skplanet.com/
 - Tacademy_python programming_함수.ipynb
 - Tacademy_python programming_제어.ipynb
 - Tacademy_python programming_클래스.ipynb
+
+## Pandas로 하는 시계열 데이터분석
+- Tacademy_Time Series with Pandas_Lecture1.ipynb: DateTime Index, Time Resampling/Shifting/Rolling and Expanding
