@@ -14,3 +14,4 @@ Reference: https://tacademy.skplanet.com/
 
 ## Pandas로 하는 시계열 데이터분석
 - Tacademy_Time Series with Pandas_Lecture1.ipynb: DateTime Index, Time Resampling/Shifting/Rolling and Expanding
+- Tacademy_Time Series with Pandas_Lecture2.ipynb: TimeZone, Visualizing
