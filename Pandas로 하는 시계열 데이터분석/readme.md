@@ -8,3 +8,5 @@ Reference: https://github.com/midnightradio/tsa-tutorial
   - Necessary File: apple_stock.csv
 - Tacademy_Time Series with Pandas_Lecture3.ipynb: ETS
   - Necessary File: airline_passengers.csv
+- Tacademy_Time Series with Pandas_Lecture3.ipynb: SMA, WMA, SES, ARIMA
+  - Necessary File: airline_passengers.csv
