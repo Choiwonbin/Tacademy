@@ -16,4 +16,5 @@ Reference: https://tacademy.skplanet.com/
 - Tacademy_Time Series with Pandas_Lecture1.ipynb: DateTime Index, Time Resampling/Shifting/Rolling and Expanding
 - Tacademy_Time Series with Pandas_Lecture2.ipynb: TimeZone, Visualizing
 - Tacademy_Time Series with Pandas_Lecture3.ipynb: ETS
-- Tacademy_Time Series with Pandas_Lecture3.ipynb: SMA, WMA, SES, ARIMA
+- Tacademy_Time Series with Pandas_Lecture4.ipynb: SMA, WMA, SES, ARIMA
+- Tacademy_Time Series with Pandas_Lecture5.ipynb: SARIMA
