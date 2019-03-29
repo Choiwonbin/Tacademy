@@ -12,3 +12,5 @@ Reference: https://github.com/midnightradio/tsa-tutorial
   - Necessary File: airline_passengers.csv
 - Tacademy_Time Series with Pandas_Lecture5.ipynb: SARIMA
   - Necessary File: monthly-milk-production.csv
+- Tacademy_Time Series with Pandas_Lecture6.ipynb: Rolling Forecast
+  - Necessary File: sales-of-shampoo.csv
