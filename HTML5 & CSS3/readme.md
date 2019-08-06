@@ -20,3 +20,4 @@ Lecture Note of HTML5 & CSS3
  ## Lecture4. HTML5 태그3 (데이터 전송 및 이미지 태그)
 - Lecture4_1_폼 태그.html: form, input, select, option 태그
 - Lecture4_2_이미지 태그1~2.html: img 태그
+  - Necessary Folder: img
