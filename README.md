@@ -25,3 +25,5 @@ Reference: https://tacademy.skplanet.com/
 - Lecture2. HTML5 태그1 (HTML 기본 태그 및 아이디 속성을 이용한 페이지 제작)
 - Lecture3. HTML5 태그2 (목록 구성 태그)
 - Lecture4. HTML5 태그3 (데이터 전송 및 이미지 태그)
+- Lecture5. HTML5 태그4 (HTML 레이아웃 및 시멘틱 웹페이지 제작)
+- Lecture6. HTML5 태그5 (HTML5 멀티미디어)
