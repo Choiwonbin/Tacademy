@@ -27,3 +27,4 @@ Reference: https://tacademy.skplanet.com/
 - Lecture4. HTML5 태그3 (데이터 전송 및 이미지 태그)
 - Lecture5. HTML5 태그4 (HTML 레이아웃 및 시멘틱 웹페이지 제작)
 - Lecture6. HTML5 태그5 (HTML5 멀티미디어)
+- Lecture7. CSS3 선택자 1 (스타일 기초 및 필수 선택자)
